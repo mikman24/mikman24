@@ -1,16 +1,16 @@
-### Hi there 👋
+# Mikman24
 
-<!--
-**mikman24/mikman24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My journey started all the way back in high school learning HTML, CSS and JS. I'm currently studying Computer Science at the VU.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
+#
+### Currently working on...:raised_hand: Whoa. It looks like this section is under construction :construction:
+
+### Notice
+
+Thank you <a href="https://github.com/ForrestKnight?tab=followers">Forrest Knight</a> for the idea :thumbsup:
